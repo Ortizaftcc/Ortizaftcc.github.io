@@ -4,4 +4,4 @@
 
 <p>Here's an image</p>
 
-<img src = "DLS.jpg" width = 400>
+<img src = "DLS.jpg" width = 250>
